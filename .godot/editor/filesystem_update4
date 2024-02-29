@@ -1,0 +1,10 @@
+res://Scenes/login_screen.tscn
+res://src/AuthenticationCredentials.gd
+res://Scenes/login_screen.gd
+res://Scenes/server.tscn
+res://Scenes/server.gd
+res://Database/UserDatabase.json
+res://Scenes/avatar_screen.tscn
+res://Scenes/avatar_screen.gd
+res://Scenes/main_menu.gd
+res://Scenes/main_menu.tscn

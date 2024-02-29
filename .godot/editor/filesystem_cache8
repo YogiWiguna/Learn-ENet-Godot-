@@ -1,0 +1,16 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1709172166
+icon.svg::CompressedTexture2D::1147423084297864824::1709171681::1709171690::1::::<><>::
+::res://Avatars/::1709171909
+adventurer_idle.png::CompressedTexture2D::9105838206706659353::1706795388::1709171909::1::::<><>::
+female_idle.png::CompressedTexture2D::2793952561046783231::1706795388::1709171909::1::::<><>::
+player_idle.png::CompressedTexture2D::4689560805271286646::1706795388::1709171909::1::::<><>::
+soldier_idle.png::CompressedTexture2D::5493661715169366228::1706795388::1709171909::1::::<><>::
+zombie_idle.png::CompressedTexture2D::8913053114368785875::1706795388::1709171909::1::::<><>::
+::res://Scenes/::1709172503
+login_screen.gd::GDScript::-1::1709172442::0::1::::<>Control<>::
+login_screen.tscn::PackedScene::1414340608512907830::1709172442::0::1::::<><>::res://Scenes/login_screen.gd
+server.gd::GDScript::-1::1709172503::0::1::::<>Node<>::
+server.tscn::PackedScene::3393801094962534862::1709172501::0::1::::<><>::
+::res://src/::1709172205
+AuthenticationCredentials.gd::GDScript::-1::1709172205::0::1::::<>Node<>::
